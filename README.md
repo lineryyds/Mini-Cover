@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cover.lner.top/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
+  <img src="public/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
 </p>
 
 <h1 align="center">Mini-Cover</h1>
