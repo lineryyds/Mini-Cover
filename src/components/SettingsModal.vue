@@ -54,7 +54,7 @@
                     d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
             </svg>
             <p class="text-sm">基于Mini-Cover构建</p>
-            <p class="text-sm">构建于2601310238</p>
+            <p class="text-sm">构建于2601310252</p>
           </div>
         </div>
       </Transition>
