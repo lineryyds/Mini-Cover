@@ -16,7 +16,7 @@
     </div>
     <div class="mt-2 space-x-2">
       <span>© 2026</span>
-      <a href="https://bsgun.cn" 
+      <a href="https://lner.top" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">XiaoLin</a>
       <a v-if="icpNumber" 
