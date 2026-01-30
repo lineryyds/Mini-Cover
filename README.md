@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="public/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
+  <img src="https://cover.lner.top/favicon.svg" width="100" height="100" alt="Mini-Cover Logo">
 </p>
 
 <h1 align="center">Mini-Cover</h1>
 
-<p align="center">优雅的在线封面生成工具</p>
+<p align="center">加载优化版本的Mini-Cover</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-3.5-4FC08D?logo=vue.js" alt="Vue">
@@ -22,14 +22,16 @@
   </a>
 </p>
 <p align="center">🎮 在线演示：
-  <a href="https://cover.bsgun.cn" target="_blank">
-  https://cover.bsgun.cn
+  <a href="https://cover.lner.top" target="_blank">
+  https://cover.lner.top
   </a>
 </p>
 
 ## 📖 简介
 
-Mini-Cover 是一个现代化的封面生成工具，专为博客、短视频、社交媒体设计。支持多种自定义选项，让你轻松创建个性化封面图片。
+这个版本是基于JM的Mini-Cover修改而来的加载优化版本，移除了无用字体并将字体拆包存放在本地，大幅提升加载速度
+
+考虑到大部分人并不会用到特殊的字体，仅保留了少数字体！
 
 ## ✨ 特性
 
@@ -99,14 +101,6 @@ npm run build
 ```
 
 构建产物在 `dist` 目录下，可以直接部署到任何静态资源服务器上。
-
-## CDN赞助
-
-本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助：EdgeOne 提供长期有效的免费套餐，包含不限量的流量和请求，覆盖中国大陆节点，且无任何超额收费，感兴趣的朋友可以去 EdgeOne 官网获取
-<a href="https://edgeone.ai/zh?from=github" target="_blank">
-    最佳亚洲 CDN、Edge 和安全解决方案 - 腾讯 EdgeOne
-<img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" width="500" height="100">
-</a>
 
 ## 📝 开源协议
 
