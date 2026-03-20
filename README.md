@@ -88,7 +88,7 @@ export const defaultConfig = {
 
 ```bash
 # 克隆项目
-git clone https://github.com/JLinMr/Mini-Cover.git
+git clone https://github.com/lineryyds/Mini-Cover.git
 
 # 安装依赖
 npm install
